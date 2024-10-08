@@ -1,0 +1,12 @@
+ul.circle{
+    list-style-type: circle;
+}
+ol.romano{
+    list-style-type: upper-roman;;
+}
+ol.minuscula{
+    list-style-type: lower-alpha;
+}
+ul.numero{
+    list-style-type: decimal;
+}
